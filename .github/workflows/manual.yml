@@ -1,4 +1,4 @@
-name: Build and Deploy Directory Data Service Django API and HTML Page now
+name: Build and Deploy Directory Data Service Django API and HTML Page
 
 on:
   push:
