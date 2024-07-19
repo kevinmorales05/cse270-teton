@@ -28,6 +28,7 @@ jobs:
         run: |
           python /directorydata_service/manage.py migrate
       - name: Run project
+        run: |
           python /directorydata_service/manage.py runserver
       - name: Run tests
         run: |
